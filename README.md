@@ -24,7 +24,9 @@ The reason is because, the browsers do not have what it takes to convert the mar
 - __HTML__ is useful for building websites.
 
 # Images of Markdown VS HTML
+## Snapshot Of HTML
 ![Image-of-html-file](assets/html-code.jpg)
 ![Image-html-output](assets/html-output.jpg)
+## Snapshot Of Markdown
 ![markdown-file](assets/markdown.jpg)
 ![markdown-output](assets/markdown-git.jpg)
