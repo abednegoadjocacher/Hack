@@ -30,3 +30,5 @@ The reason is because, the browsers do not have what it takes to convert the mar
 ## Snapshot Of Markdown
 ![markdown-file](assets/markdown.jpg)
 ![markdown-output](assets/markdown-git.jpg)
+# 🤷‍♂️ Do you think in the future, browsers will be made to understand Markdown???
+Let discuss that later.
